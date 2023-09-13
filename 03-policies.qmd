@@ -1,0 +1,173 @@
+---
+toc: true
+---
+
+## Assessment
+
+{{< include specific-content/policies/03a-assessment.qmd >}}
+
+## Grading
+
+Grades will **not** be curved and will **not** be rounded. The following weights will be adopted in calculating the total grade.
+
+{{< include specific-content/policies/03b-weights.qmd >}}
+
+The weighted percentage score will be assigned a letter grade based on the following scheme:
+  <br><br>
+
+  <table class="table table-condensed table-striped text-left">
+  <thead>
+  <tr>
+  <th><span>Weighted Total Percentage</span></th>
+  <th><span>Letter Grade</span></th>
+  </tr>
+  </thead>
+
+  <tbody>
+
+  <tr>
+  <td>96.5  -  100   </td>
+  <td>A+</td>
+  </tr>
+
+  <tr>
+  <td>93.5  -  96.499   </td>
+  <td>A</td>
+  </tr>
+
+  <tr>
+  <td>90  -  93.499</td>
+  <td>A-</td>
+  </tr>
+
+  <tr>
+  <td>86.5  -  89.999</td>
+  <td>B+</td>
+  </tr>
+
+  <tr>
+  <td>83.5  -  86.499</td>
+  <td>B</td>
+  </tr>
+
+  <tr>
+  <td>80  -  83.499</td>
+  <td>B-</td>
+  </tr>
+
+  <tr>
+  <td>76.5  -  79.999 </td>
+  <td>C+</td>
+  </tr>
+
+  <tr>
+  <td>73.5  -  76.499</td>
+  <td>C</td>
+  </tr>
+
+  <tr>
+  <td>70  -  73.499</td>
+  <td>C-</td>
+  </tr>
+
+  <tr>
+  <td>66.5  -  69.999</td>
+  <td>D+</td>
+  </tr>
+
+  <tr>
+  <td>63.5  -  66.499 </td>
+  <td>D</td>
+  </tr>
+
+  <tr>
+  <td>60  -  63.499 </td>
+  <td>D-</td>
+  </tr>
+
+  <tr>
+  <td> 59.999 and below </td>
+  <td>F</td>
+  </tr>
+
+  </tbody>
+  </table>
+
+## Getting Help
+
+### Office Hours
+
+I would highly encourage you to attend office hours. 
+Attending office hours is an effective way to ask me or your TA questions you may have.
+They are also a great time to just chat with us if it is not too crowded :)
+
+We want to be mindful of you who commute to campus so if you'd choose to attend office hours virtually, we will also be available online via zoom. The hours and locations can be checked under [People](02-people.qmd).
+
+
+### Online Discussion
+
+We will have an [online forum]({{< var course.discussion >}}). While communicating online, please note the following:
+
+- Before posting a question, please make sure that the same question has not been posted before.
+
+- Respect opinions of others.
+
+- If you choose to post memes or any jokes, be mindful. Any joke about a person, or a group of people, or cultures is not funny. However, statistics and data science jokes are always welcome.
+
+- There are absolutely no stupid questions. Do not feel shy about asking questions. Do not judge anyone about any question that they ask.
+You can post anonymously. Others would not know who you are but I would know who you are.
+
+- If somebody asks a question about homework etc. do not reveal answers for them. Instead, help them learn and show them in which lecture we have covered the topic.
+
+- Be generous with likes. That means when you read something useful like the post, so that we all know that we are not talking to ourselves but to each other.
+
+- Answer each other's questions. 
+
+
+### E-Mail
+
+**Please do not email me about course content** unless it is private to you. If you are running into an issue, **it is very likely that someone else is also having the same issue**. Please post on the discussion forum so that we can all learn together. This way I would only answer the question once and everyone can benefit. In fact, your TA or one of your peers may even answer it before I do. You can get a much quicker response. 
+	
+While communicating over email, please make sure the email
+		- has an informative subject line including the course code.     - articulates your question or problem well.
+		- has a closing statement such as *Sincerely, Kind Regards*</i>* etc.
+		- has your name at the end.
+
+Here is a sample email:
+
+> Subject: {{< var course.code >}} - Your Subject 
+
+> Dear Dr. Dogucu,   
+I hope you are doing well (or some other humane sentence). I am writing to you regarding ______________ (Your concern or problem). (Any explanations, requests or suggestions for solutions to your problem)  
+Sincerely/Kind regards,  
+Your name 
+
+
+## Academic Honesty
+
+You are expected to comply to the rules set by the [Office of Academic Integrity and Student Conduct](https://aisc.uci.edu/).
+This syllabus (i.e., course website) clearly labels instructions on when and how you can work with others, tools you can use, and under what conditions.
+If there are no instructions for any assignments, you should assume that the work should be completed by you only from start to finish without help of others and AI tools like ChatGPT. Academic dishonesty includes, for example, cheating on examinations or any assignment, plagiarism of any kind (including improper citation of sources), having someone else take an examination or complete an assignment for you (or doing it for someone else), or any activity in which you represent someone else’s work as your own. Violations of academic integrity will be referred to the Office of Academic Integrity and Student Conduct. You cannot share or distribute solutions online or offline or in any media now or in the future. You cannot obtain solutions from others. If there is evidence of academic misconduct , intentionally or unintentionally, YOU WILL FAIL THE CLASS. This rule applies even if you violate the policies of this course on a single problem, on an assignment, the whole assignment or multiple assignments. No matter what the degree of academic dishonesty is, you will fail the class. It is your responsibility to protect your answers being copied. Make sure not to save work on shared folders. It may be difficult to distinguish helping each other learn and cheating together. If you are unsure of the distinction check with me before hand.
+
+
+## Dissability Accomodations
+
+University of California, Irvine is committed to providing reasonable accommodations for all persons with permanent or temporary disabilities. This syllabus is available in alternate formats upon request. If you have a disability that impacts your participation in this class, please contact the Disability Services Center (DSC) as soon as possible. Students approved for accommodations will notify the instructor by sending out a Faculty Notification Letter from the DSC website. Disability Services Center - Continuing Education 3, Bldg #234
+ [www.dsc.uci.edu](https://dsc.uci.edu/) - (949) 824-7494
+
+
+
+## Diversity
+
+The University of California, Irvine, in accordance with applicable Federal and State law and University policy, does not discriminate on the basis of race, color, national origin, religion, sex, gender identity, pregnancy, physical or mental disability, medical condition (cancer-related or genetic characteristics), ancestry, marital status, age, sexual orientation, citizenship, or service in the uniformed services. The University also prohibits sexual harassment. This nondiscrimination policy covers admission, access, and treatment in University programs and activities.
+
+
+
+## Inclusion
+
+My goal is to make everyone (yes, that includes you too) feel welcome, not only in my classroom but also in the field of statistics and data science. If there is any reason you do not feel welcome in this class, please talk to me. If anything is said to you that makes you feel uncomfortable, please talk to me. If there is any life event that is interfering with your learning in this class, please talk to me. I may not be able to solve all your problems, but I may be able to direct you to the right resources on campus.
+
+
+## Course Material Distribution
+
+Selling, preparing, or distributing for any commercial purpose course lecture notes or video or audio recordings of any course unless authorized by the University in advance and explicitly permitted by the course instructor in writing. The unauthorized sale or commercial distribution of course notes or recordings by a student is a violation of these Policies whether or not it was the student or someone else who prepared the notes or recordings.

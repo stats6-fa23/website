@@ -1,0 +1,35 @@
+It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow. 
+
+### In-Class Quizzes
+
+In-Class quizzes are opportunity to practice as you are learning during the lectures. 
+The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. 
+You will be graded for participation, not for correctness.
+
+
+### Homework Assignments
+
+At the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. 
+In other words, homework assignments will be due 1:25 pm on Mondays.
+For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.
+
+- Use tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.
+- Do not copy as is from the internet or your peers or any other person.
+- Do not pay someone or a website to do the work for you.
+- The work you submit should be reflective of **your** understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.
+- At the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.
+
+TLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.
+
+### Midterm Exam
+
+Midterm exam will be held in-person, in-class on Nov 1st. 
+You will work individually on the exam.
+It will be a closed-book exam but you will be given equations.
+You will not need a calculator and thus you will not be allowed to use one.
+
+### Project
+
+You will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30.
+You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. 
+Since we do not have a final exam, during this time, you will be assigned to watch three other groups' videos and evaluate them.
