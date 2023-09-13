@@ -1,0 +1,1 @@
+Sitemap: {{< var course.site >}}/sitemap.xml

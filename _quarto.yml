@@ -2,13 +2,42 @@ project:
   type: website
 
 website:
-  title: "stats6-website"
+  title: "{{< var course.title >}}"
+  search: true
+  site-url: "{{< var course.site >}}"
   navbar:
+    logo: "img/logo.png"
+    pinned: true
+    background: whitesmoke
+    foreground: "#ae8f68"
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: "{{< fa home >}} Home"      
+      - href: people.qmd
+        text: "{{< fa chalkboard-teacher >}} People"
+      - href: policies.qmd
+        text: "{{< fa gavel >}} Policies"
+      - href: schedule.qmd
+        text: "{{< fa calendar >}} Schedule"
+      - href: tools.qmd
+        text: "{{< fa toolbox >}} Tools"
+      - href: resources.qmd
+        text: "{{< fa coin >}} Resources"
+    right:
+    - icon: github
+      href: "{{< var course.github-org >}}"
+    - icon: patch-question
+      href: "{{< var course.discussion >}}"
+    - icon: calculator
+      href: "{{< var course.lms >}}"
+    - icon: bar-chart-steps
+      href: "{{< var course.assignments>}}"
+  
+  
+  page-footer:
+      center: 
+        - text: 	"&copy; {{< var course.year >}} <a href=\" {{< var instructor.website >}} \">{{< var instructor.name >}} </a> <br> <a href=\" https://creativecommons.org/licenses/by-nc-sa/4.0/\"> CC BY-NC-SA 4.0 </a>"
+        
 format:
   html:
     theme: cosmo

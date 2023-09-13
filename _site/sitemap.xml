@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{< var course.site >}}/index.html</loc>
+    <lastmod>2023-09-13T01:26:18.202Z</lastmod>
+  </url>
+</urlset>

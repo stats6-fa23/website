@@ -1,0 +1,19 @@
+author: "Mine Dogucu"
+institute: "University of California Irvine"
+department: "Department of Statistics"
+
+course:
+  code: "STATS 6"
+  title: "Intro to Data Science"
+  term: "Fall"
+  year: "2023"
+  site: "https://www.introdata.science/"
+  github-org: "https://github.com/stats6-fa23"
+  discussion: "https://edstem.org/us/courses/47261"
+  lms: "https://canvas.eee.uci.edu/courses/56693/gradebook"
+  assignments: "https://www.gradescope.com/courses/618515"
+  
+instructor:
+  name: "Dr. Mine Dogucu"
+  website: "https://www.minedogucu.com"
+
