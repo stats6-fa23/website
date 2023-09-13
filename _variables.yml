@@ -12,7 +12,7 @@ course:
   github-org: "https://github.com/stats6-fa23"
   discussion: "https://edstem.org/us/courses/47261"
   lms: "https://canvas.eee.uci.edu/courses/56693/gradebook"
-  assignments: "https://www.gradescope.com/courses/618515"
+  gradescope: "https://www.gradescope.com/courses/618515"
   
 instructor:
   name: "Dr. Mine Dogucu"

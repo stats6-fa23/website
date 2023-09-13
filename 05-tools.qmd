@@ -1,0 +1,31 @@
+---
+tox: true
+---
+
+## Textbook
+
+We will use two main textbooks for the course both of which are freely available online. You will not be expected to purchase paper copies. 
+
+[Modern Data Science with R](https://mdsr-book.github.io/mdsr2e) by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton. 
+
+[R for Data Science](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund
+
+## Programming Tools
+
+**R and RStudio** We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language.
+
+**Git and GitHub** We will use GitHub for version control with git. We will soon learn what version control means.
+
+## Other Software
+
+We will use [an online forum]({{< var course.discussion >}}) where you can ask and answer questions. Please read [guidelines](03-policies.html#online-discussion) for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.
+
+We will use [Gradescope]({{< var course.gradescope >}}) for some of the assignments. You will get instructions on how to use Gradescope.
+
+
+We will use [Canvas]({{< var course.lms >}}) for keeping track of grades.
+
+
+      
+		
+	

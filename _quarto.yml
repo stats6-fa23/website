@@ -31,7 +31,7 @@ website:
     - icon: calculator
       href: "{{< var course.lms >}}"
     - icon: bar-chart-steps
-      href: "{{< var course.assignments>}}"
+      href: "{{< var course.gradescope>}}"
   
   
   page-footer:

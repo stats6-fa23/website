@@ -285,5 +285,40 @@
     "title": "{{< var course.short-title >}}",
     "section": "",
     "text": "This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
+  },
+  {
+    "objectID": "05-tools.html#programming-tools",
+    "href": "05-tools.html#programming-tools",
+    "title": "{{< var course.short-title >}}",
+    "section": "Programming Tools",
+    "text": "Programming Tools\nR and RStudio We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language.\nGit and GitHub We will use GitHub for version control with git. We will soon learn what version control means."
+  },
+  {
+    "objectID": "05-tools.html#learning-tools",
+    "href": "05-tools.html#learning-tools",
+    "title": "{{< var course.short-title >}}",
+    "section": "Learning Tools",
+    "text": "Learning Tools\n    &lt;hr&gt; \n\n\n\n\n  The book is accessible for free. This is second of the three main books that we will use for the course. \n    \n    &lt;hr&gt; \n\n\n\n  The book is accessible for free. This is the last of the three main books that we will use for the course. \n    \n  &lt;hr&gt;\n\n  &lt;a href=\"https://www.oit.uci.edu/help/vpn/\" target=\"_blank\"&gt;&lt;b&gt;VPN&lt;/b&gt;&lt;/a&gt;\n  If you are not on campus, you will need to connect through VPN to access resources that are only accessible on campus.\n  &lt;hr&gt;\nR and RStudio We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language.\n\nGitHub We will use GitHub for version control with git. We will soon learn what version control means.\n\nzoom  If you have remote accommodations then you can connect to the course via zoom. Office hours will also be available both in person and online via zoom.\n\n\n  ed  If you have a question about anything in this course, it is very likely that one of your classmates also has the exact same question. In order to reduce the number of emails, and to form a learning community, we will be using ed. If you need to ask anything personal, please email me. You should not feel shy to make posts but before you start writing your post, please make sure to search first if the same question has already been posted. Always follow online communication etiquette when posting on Canvas.\n\n\n   Gradescope  We will use Gradescope for some of your assignments. You will receive further instructions on how to navigate using Gradescope.\n\n\n  Canvas \nWe will use Canvas only for keeping track of grades. This is your official gradebook."
+  },
+  {
+    "objectID": "05-tools.html",
+    "href": "05-tools.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "We will use two main textbooks for the course both of which are freely available online. You will not be expected to purchase paper copies.\nModern Data Science with R by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton.\nR for Data Science by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund"
+  },
+  {
+    "objectID": "05-tools.html#textbook",
+    "href": "05-tools.html#textbook",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "We will use two main textbooks for the course both of which are freely available online. You will not be expected to purchase paper copies.\nModern Data Science with R by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton.\nR for Data Science by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund"
+  },
+  {
+    "objectID": "05-tools.html#other-software",
+    "href": "05-tools.html#other-software",
+    "title": "{{< var course.short-title >}}",
+    "section": "Other Software",
+    "text": "Other Software\nWe will use an online forum where you can ask and answer questions. Please read guidelines for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.\nWe will use Gradescope for some of the assignments. You will get instructions on how to use Gradescope.\nWe will use Canvas for keeping track of grades."
   }
 ]

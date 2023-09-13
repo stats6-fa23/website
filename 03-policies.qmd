@@ -104,7 +104,7 @@ They are also a great time to just chat with us if it is not too crowded :)
 We want to be mindful of you who commute to campus so if you'd choose to attend office hours virtually, we will also be available online via zoom. The hours and locations can be checked under [People](02-people.qmd).
 
 
-### Online Discussion
+### Online Discussion 
 
 We will have an [online forum]({{< var course.discussion >}}). While communicating online, please note the following:
 
