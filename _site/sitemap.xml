@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>{{< var course.site >}}/specific-content/index/01c-week-workflow.html</loc>
-    <lastmod>2023-09-13T02:04:49.647Z</lastmod>
-  </url>
-  <url>
-    <loc>{{< var course.site >}}/specific-content/index/01d-important-dates.html</loc>
-    <lastmod>2023-09-13T02:04:49.042Z</lastmod>
-  </url>
-  <url>
-    <loc>{{< var course.site >}}/05-tools.html</loc>
-    <lastmod>2023-09-13T02:04:48.448Z</lastmod>
-  </url>
-  <url>
     <loc>{{< var course.site >}}/06-resources.html</loc>
-    <lastmod>2023-09-13T02:04:47.889Z</lastmod>
-  </url>
-  <url>
-    <loc>{{< var course.site >}}/01-index.html</loc>
-    <lastmod>2023-09-13T02:04:47.283Z</lastmod>
-  </url>
-  <url>
-    <loc>{{< var course.site >}}/04-schedule.html</loc>
-    <lastmod>2023-09-13T02:04:46.584Z</lastmod>
-  </url>
-  <url>
-    <loc>{{< var course.site >}}/02-people.html</loc>
-    <lastmod>2023-09-13T02:04:47.599Z</lastmod>
-  </url>
-  <url>
-    <loc>{{< var course.site >}}/03-policies.html</loc>
-    <lastmod>2023-09-13T02:04:48.173Z</lastmod>
-  </url>
-  <url>
-    <loc>{{< var course.site >}}/specific-content/index/01b-course-goals.html</loc>
-    <lastmod>2023-09-13T02:04:48.751Z</lastmod>
-  </url>
-  <url>
-    <loc>{{< var course.site >}}/specific-content/index/01a-course-description.html</loc>
-    <lastmod>2023-09-13T02:04:49.355Z</lastmod>
+    <lastmod>2023-09-13T02:27:04.731Z</lastmod>
   </url>
 </urlset>
