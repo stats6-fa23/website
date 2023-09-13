@@ -1,0 +1,44 @@
+<br>
+<br>
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+```{r}
+#| echo: false
+#| fig-align: center
+knitr::include_graphics("img/logo.png")
+```
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="55%"}
+
+Welcome to **{{< var course.code >}} - {{< var course.long-title >}}** in {{< var course.term >}} {{< var course.year >}}
+
+{{< include specific-content/index/01a-course-description.qmd >}}
+
+
+:::
+
+::::
+
+<br>
+<br>
+
+
+:::{.jumbotron}
+
+{{< include specific-content/index/01b-course-goals.qmd >}}
+
+:::
+
+{{< include specific-content/index/01c-week-workflow.qmd >}}
+
+{{< include specific-content/index/01d-important-dates.qmd >}}

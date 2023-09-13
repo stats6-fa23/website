@@ -1,0 +1,7 @@
+By the end of this course you will be able to:
+
+- explore data using descriptive statistics and visualizations;  
+- read, write, and tidy up datasets;  
+- make predictions and conclusions using models;  
+- consider impact of decisions related to data on humans, other livings, and the planet;  
+- write human- and machine-readable code using R.

@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "01-index.html",
+    "href": "01-index.html",
+    "title": "{{< var course.short-title >}}",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to STATS 6 - Introduction to Data Science in Fall 2023\nThis course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None\n\n\n \n\nBy the end of this course you will be able to:\n\nexplore data using descriptive statistics and visualizations;\n\nread, write, and tidy up datasets;\n\nmake predictions and conclusions using models;\n\nconsider impact of decisions related to data on humans, other livings, and the planet;\n\nwrite human- and machine-readable code using R."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "stats6-website",
+    "objectID": "specific-content/index/01b-course-goals.html",
+    "href": "specific-content/index/01b-course-goals.html",
+    "title": "{{< var course.short-title >}}",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "By the end of this course you will be able to:\n\nexplore data using descriptive statistics and visualizations;\n\nread, write, and tidy up datasets;\n\nmake predictions and conclusions using models;\n\nconsider impact of decisions related to data on humans, other livings, and the planet;\n\nwrite human- and machine-readable code using R."
+  },
+  {
+    "objectID": "specific-content/index/01a-course-description.html",
+    "href": "specific-content/index/01a-course-description.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
   }
 ]

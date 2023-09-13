@@ -4,7 +4,8 @@ department: "Department of Statistics"
 
 course:
   code: "STATS 6"
-  title: "Intro to Data Science"
+  short-title: "Intro to DS"
+  long-title: "Introduction to Data Science"
   term: "Fall"
   year: "2023"
   site: "https://www.introdata.science/"
