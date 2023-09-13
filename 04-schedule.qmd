@@ -1,0 +1,51 @@
+---
+toc: true
+---
+
+## Week 0
+
+{{< include specific-content/schedule/04-week01.qmd >}}
+
+## Week 1
+
+{{< include specific-content/schedule/04-week01.qmd >}}
+
+## Week 2
+
+{{< include specific-content/schedule/04-week02.qmd >}}
+
+## Week 3
+
+{{< include specific-content/schedule/04-week03.qmd >}}
+
+## Week 4
+
+{{< include specific-content/schedule/04-week04.qmd >}}
+
+## Week 5
+
+{{< include specific-content/schedule/04-week05.qmd >}}
+
+## Week 6
+
+{{< include specific-content/schedule/04-week06.qmd >}}
+
+## Week 7
+
+{{< include specific-content/schedule/04-week07.qmd >}}
+
+## Week 8
+
+{{< include specific-content/schedule/04-week08.qmd >}}
+
+## Week 9
+
+{{< include specific-content/schedule/04-week09.qmd >}}
+
+## Week 10
+
+{{< include specific-content/schedule/04-week10.qmd >}}
+
+## Final Week
+
+{{< include specific-content/schedule/04-week11.qmd >}}

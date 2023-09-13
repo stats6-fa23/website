@@ -1,17 +1,59 @@
 [
   {
+    "objectID": "specific-content/policies/03b-weights.html",
+    "href": "specific-content/policies/03b-weights.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "Component\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n10%\n\n\n\n\nHomework Assignments\n\n\n20%\n\n\n\n\nMidterm Exam\n\n\n30%\n\n\n\n\nProject\n\n\n40%"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week08.html",
+    "href": "specific-content/schedule/04-week08.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week04.html",
+    "href": "specific-content/schedule/04-week04.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week11.html",
+    "href": "specific-content/schedule/04-week11.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week07.html",
+    "href": "specific-content/schedule/04-week07.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week02.html",
+    "href": "specific-content/schedule/04-week02.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week01.html",
+    "href": "specific-content/schedule/04-week01.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "TBA"
+  },
+  {
     "objectID": "06-resources.html",
     "href": "06-resources.html",
     "title": "{{< var course.short-title >}}",
     "section": "",
     "text": "UCI Counselling Center\nThe counseling center offers free counseling to students. You do not need health insurance.\n\n\nUCI Basic Needs Center\nUCI Basic Needs Center offers services to UCI students to help them meet their basic needs including food.\n\n\nUCI Dream Center\nThe UCI DREAM Center stands with and serves those impacted by immigration policy.\n\n\nAddressing People in Academia\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\n\n\nTips on Recommendation Letters for Students and Instructors\nThis blog post provides suggestions on asking for recommendation letters as part of graduate school applications"
-  },
-  {
-    "objectID": "02-people.html",
-    "href": "02-people.html",
-    "title": "{{< var course.short-title >}}",
-    "section": "",
-    "text": "Instructor\n Dr. Mine Dogucu\nshe/they\nmdogucu@uci.edu\n\nOffice Hours:  W 4:00 - 5:00 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Rasul Ibragimov\nhe/him\nibragimr@uci.edu\n\nOffice Hours:  TBD\n DBH 2013\n Zoom"
   },
   {
     "objectID": "01-index.html",
@@ -21,18 +63,116 @@
     "text": "Welcome to STATS 6 - Introduction to Data Science in Fall 2023\nThis course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None\n\n\n \n\nBy the end of this course you will be able to:\n\nexplore data using descriptive statistics and visualizations;\n\nread, write, and tidy up datasets;\n\nmake predictions and conclusions using models;\n\nconsider impact of decisions related to data on humans, other livings, and the planet;\n\nwrite human- and machine-readable code using R."
   },
   {
-    "objectID": "specific-content/index/01b-course-goals.html",
-    "href": "specific-content/index/01b-course-goals.html",
+    "objectID": "04-schedule.html",
+    "href": "04-schedule.html",
     "title": "{{< var course.short-title >}}",
     "section": "",
-    "text": "By the end of this course you will be able to:\n\nexplore data using descriptive statistics and visualizations;\n\nread, write, and tidy up datasets;\n\nmake predictions and conclusions using models;\n\nconsider impact of decisions related to data on humans, other livings, and the planet;\n\nwrite human- and machine-readable code using R."
+    "text": "TBA"
   },
   {
-    "objectID": "specific-content/index/01a-course-description.html",
-    "href": "specific-content/index/01a-course-description.html",
+    "objectID": "04-schedule.html#week-0",
+    "href": "04-schedule.html#week-0",
     "title": "{{< var course.short-title >}}",
     "section": "",
-    "text": "This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
+    "text": "TBA"
+  },
+  {
+    "objectID": "04-schedule.html#week-1",
+    "href": "04-schedule.html#week-1",
+    "title": "{{< var course.short-title >}}",
+    "section": "Week 1",
+    "text": "Week 1\nTBA"
+  },
+  {
+    "objectID": "04-schedule.html#week-2",
+    "href": "04-schedule.html#week-2",
+    "title": "{{< var course.short-title >}}",
+    "section": "Week 2",
+    "text": "Week 2\nTBA"
+  },
+  {
+    "objectID": "04-schedule.html#week-3",
+    "href": "04-schedule.html#week-3",
+    "title": "{{< var course.short-title >}}",
+    "section": "Week 3",
+    "text": "Week 3\nTBA"
+  },
+  {
+    "objectID": "04-schedule.html#week-4",
+    "href": "04-schedule.html#week-4",
+    "title": "{{< var course.short-title >}}",
+    "section": "Week 4",
+    "text": "Week 4\nTBA"
+  },
+  {
+    "objectID": "04-schedule.html#week-5",
+    "href": "04-schedule.html#week-5",
+    "title": "{{< var course.short-title >}}",
+    "section": "Week 5",
+    "text": "Week 5\nTBA"
+  },
+  {
+    "objectID": "04-schedule.html#week-6",
+    "href": "04-schedule.html#week-6",
+    "title": "{{< var course.short-title >}}",
+    "section": "Week 6",
+    "text": "Week 6\nTBA"
+  },
+  {
+    "objectID": "04-schedule.html#week-7",
+    "href": "04-schedule.html#week-7",
+    "title": "{{< var course.short-title >}}",
+    "section": "Week 7",
+    "text": "Week 7\nTBA"
+  },
+  {
+    "objectID": "04-schedule.html#week-8",
+    "href": "04-schedule.html#week-8",
+    "title": "{{< var course.short-title >}}",
+    "section": "Week 8",
+    "text": "Week 8\nTBA"
+  },
+  {
+    "objectID": "04-schedule.html#week-9",
+    "href": "04-schedule.html#week-9",
+    "title": "{{< var course.short-title >}}",
+    "section": "Week 9",
+    "text": "Week 9\nTBA"
+  },
+  {
+    "objectID": "04-schedule.html#week-10",
+    "href": "04-schedule.html#week-10",
+    "title": "{{< var course.short-title >}}",
+    "section": "Week 10",
+    "text": "Week 10\nTBA"
+  },
+  {
+    "objectID": "04-schedule.html#final-week",
+    "href": "04-schedule.html#final-week",
+    "title": "{{< var course.short-title >}}",
+    "section": "Final Week",
+    "text": "Final Week\nTBA"
+  },
+  {
+    "objectID": "02-people.html",
+    "href": "02-people.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "Instructor\n Dr. Mine Dogucu\nshe/they\nmdogucu@uci.edu\n\nOffice Hours:  W 4:00 - 5:00 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Rasul Ibragimov\nhe/him\nibragimr@uci.edu\n\nOffice Hours:  TBD\n DBH 2013\n Zoom"
+  },
+  {
+    "objectID": "03-policies.html",
+    "href": "03-policies.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\n\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness.\n\n\n\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 1:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\n\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\n\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
+  },
+  {
+    "objectID": "03-policies.html#assessment",
+    "href": "03-policies.html#assessment",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\n\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness.\n\n\n\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 1:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\n\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\n\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
   },
   {
     "objectID": "03-policies.html#grading",
@@ -84,18 +224,46 @@
     "text": "Course Material Distribution\nSelling, preparing, or distributing for any commercial purpose course lecture notes or video or audio recordings of any course unless authorized by the University in advance and explicitly permitted by the course instructor in writing. The unauthorized sale or commercial distribution of course notes or recordings by a student is a violation of these Policies whether or not it was the student or someone else who prepared the notes or recordings."
   },
   {
-    "objectID": "03-policies.html",
-    "href": "03-policies.html",
+    "objectID": "specific-content/schedule/04-week00.html",
+    "href": "specific-content/schedule/04-week00.html",
     "title": "{{< var course.short-title >}}",
     "section": "",
-    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\n\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness.\n\n\n\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 1:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\n\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\n\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
+    "text": "TBA"
   },
   {
-    "objectID": "03-policies.html#assessment",
-    "href": "03-policies.html#assessment",
+    "objectID": "specific-content/schedule/04-week03.html",
+    "href": "specific-content/schedule/04-week03.html",
     "title": "{{< var course.short-title >}}",
     "section": "",
-    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\n\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness.\n\n\n\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 1:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\n\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\n\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week06.html",
+    "href": "specific-content/schedule/04-week06.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week05.html",
+    "href": "specific-content/schedule/04-week05.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week10.html",
+    "href": "specific-content/schedule/04-week10.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week09.html",
+    "href": "specific-content/schedule/04-week09.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "TBA"
   },
   {
     "objectID": "specific-content/policies/03a-assessment.html",
@@ -105,10 +273,17 @@
     "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\nIn-Class Quizzes\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness.\n\n\nHomework Assignments\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 1:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\nMidterm Exam\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\nProject\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
   },
   {
-    "objectID": "specific-content/policies/03b-weights.html",
-    "href": "specific-content/policies/03b-weights.html",
+    "objectID": "specific-content/index/01b-course-goals.html",
+    "href": "specific-content/index/01b-course-goals.html",
     "title": "{{< var course.short-title >}}",
     "section": "",
-    "text": "Component\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n10%\n\n\n\n\nHomework Assignments\n\n\n20%\n\n\n\n\nMidterm Exam\n\n\n30%\n\n\n\n\nProject\n\n\n40%"
+    "text": "By the end of this course you will be able to:\n\nexplore data using descriptive statistics and visualizations;\n\nread, write, and tidy up datasets;\n\nmake predictions and conclusions using models;\n\nconsider impact of decisions related to data on humans, other livings, and the planet;\n\nwrite human- and machine-readable code using R."
+  },
+  {
+    "objectID": "specific-content/index/01a-course-description.html",
+    "href": "specific-content/index/01a-course-description.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
   }
 ]
