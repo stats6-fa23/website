@@ -1,0 +1,62 @@
+
+:::: {.columns}
+
+::: {.column width="45%"}
+
+**Instructor**
+
+[{{< fa volume-high >}}](audio/instructor.mp3) {{< var instructor.name >}}   
+{{< var instructor.pronoun >}}
+[{{< var instructor.email >}}](mailto: {{< var instructor.email >}})
+
+<img src="img/instructor.jpeg" class="rounded-circle center mx-auto d-block"
+     alt="A headshot of a woman with curly, short, ear-length hair with green eyes and red lipstick."
+     style="float: left; margin-right: 10px; width: 100%; padding-bottom:20px;" />
+     
+
+Office Hours: <br> {{< var instructor.office-hours >}} 
+
+{{< fa building-columns >}} {{< var instructor.office >}}
+
+[{{< fa video >}}  Zoom]({{< var instructor.zoom >}})
+
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="45%"}
+
+**Teaching Assistant (TA)**
+
+[{{< fa volume-high >}}](audio/ta.mp3) {{< var ta.name >}}   
+{{< var ta.pronoun >}}
+[{{< var ta.email >}}](mailto: {{< var ta.email >}})
+
+<img src="img/ta.jpeg" class="rounded-circle center mx-auto d-block"
+     alt="A headshot of a woman with curly, short, ear-length hair with green eyes and red lipstick."
+     style="float: left; margin-right: 10px; width: 100%; padding-bottom:20px;" />
+     
+
+Office Hours: <br> {{< var ta.office-hours >}} 
+
+{{< fa building-columns >}} {{< var ta.office >}}
+
+[{{< fa video >}}  Zoom]({{< var ta.zoom >}})
+
+
+
+:::
+
+
+
+::::
+
+
+
+
+     
+     
+   

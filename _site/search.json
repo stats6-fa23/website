@@ -5,5 +5,33 @@
     "title": "{{< var course.short-title >}}",
     "section": "",
     "text": "UCI Counselling Center\nThe counseling center offers free counseling to students. You do not need health insurance.\n\n\nUCI Basic Needs Center\nUCI Basic Needs Center offers services to UCI students to help them meet their basic needs including food.\n\n\nUCI Dream Center\nThe UCI DREAM Center stands with and serves those impacted by immigration policy.\n\n\nAddressing People in Academia\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\n\n\nTips on Recommendation Letters for Students and Instructors\nThis blog post provides suggestions on asking for recommendation letters as part of graduate school applications"
+  },
+  {
+    "objectID": "02-people.html",
+    "href": "02-people.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "Instructor\n Dr. Mine Dogucu\nshe/they\nmdogucu@uci.edu\n\nOffice Hours:  W 4:00 - 5:00 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Rasul Ibragimov\nhe/him\nibragimr@uci.edu\n\nOffice Hours:  TBD\n DBH 2013\n Zoom"
+  },
+  {
+    "objectID": "01-index.html",
+    "href": "01-index.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "Welcome to STATS 6 - Introduction to Data Science in Fall 2023\nThis course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None\n\n\n \n\nBy the end of this course you will be able to:\n\nexplore data using descriptive statistics and visualizations;\n\nread, write, and tidy up datasets;\n\nmake predictions and conclusions using models;\n\nconsider impact of decisions related to data on humans, other livings, and the planet;\n\nwrite human- and machine-readable code using R."
+  },
+  {
+    "objectID": "specific-content/index/01b-course-goals.html",
+    "href": "specific-content/index/01b-course-goals.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "By the end of this course you will be able to:\n\nexplore data using descriptive statistics and visualizations;\n\nread, write, and tidy up datasets;\n\nmake predictions and conclusions using models;\n\nconsider impact of decisions related to data on humans, other livings, and the planet;\n\nwrite human- and machine-readable code using R."
+  },
+  {
+    "objectID": "specific-content/index/01a-course-description.html",
+    "href": "specific-content/index/01a-course-description.html",
+    "title": "{{< var course.short-title >}}",
+    "section": "",
+    "text": "This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
   }
 ]

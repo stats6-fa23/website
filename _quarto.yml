@@ -22,7 +22,7 @@ website:
       - href: "05-tools.qmd"
         text: "{{< fa toolbox >}} Tools"
       - href: "06-resources.qmd"
-        text: "{{< fa coin >}} Resources"
+        text: "{{< fa medal >}} Resources"
     right:
     - icon: github
       href: "{{< var course.github-org >}}"
