@@ -11,17 +11,17 @@ website:
     background: whitesmoke
     foreground: "#ae8f68"
     left:
-      - href: "01-index.qmd"
+      - href: "index.qmd"
         text: "{{< fa home >}} Home"      
-      - href: "02-people.qmd"
+      - href: "people.qmd"
         text: "{{< fa chalkboard-teacher >}} People"
-      - href: "03-policies.qmd"
+      - href: "policies.qmd"
         text: "{{< fa gavel >}} Policies"
-      - href: "04-schedule.qmd"
+      - href: "schedule.qmd"
         text: "{{< fa calendar >}} Schedule"
-      - href: "05-tools.qmd"
+      - href: "tools.qmd"
         text: "{{< fa toolbox >}} Tools"
-      - href: "06-resources.qmd"
+      - href: "resources.qmd"
         text: "{{< fa medal >}} Resources"
     right:
     - icon: github
