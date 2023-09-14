@@ -25,7 +25,8 @@ We will use [Gradescope]({{< var course.gradescope >}}) for some of the assignme
 
 We will use [Canvas]({{< var course.lms >}}) for keeping track of grades.
 
-
+If you are not on campus, you will need to connect through [VPN](https://www.oit.uci.edu/help/vpn/) to access resources that are only accessible on campus. Follow the instructions on the link.
+      
       
 		
 	
