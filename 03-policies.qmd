@@ -102,6 +102,10 @@ The weighted percentage score will be assigned a letter grade based on the follo
 
 {{< include specific-content/policies/03c-late-policy.qmd >}}
 
+### Re-grade Requests
+
+{{< include specific-content/policies/03d-regrade.qmd >}}
+
 ## Getting Help
 
 ### Office Hours
