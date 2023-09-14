@@ -41,4 +41,8 @@ Welcome to **{{< var course.code >}} - {{< var course.long-title >}}** in {{< va
 
 {{< include specific-content/index/01c-week-workflow.qmd >}}
 
+:::{.jumbotron}
+
 {{< include specific-content/index/01d-important-dates.qmd >}}
+
+:::

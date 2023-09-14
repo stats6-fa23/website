@@ -10,7 +10,7 @@ You will be graded for participation, not for correctness.
 ### Homework Assignments
 
 At the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. 
-In other words, homework assignments will be due 1:25 pm on Mondays.
+In other words, homework assignments will be due 12:25 pm on Mondays.
 For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.
 
 - Use tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.
@@ -30,6 +30,6 @@ You will not need a calculator and thus you will not be allowed to use one.
 
 ### Project
 
-You will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30.
+You will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30 pm.
 You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. 
 Since we do not have a final exam, during this time, you will be assigned to watch three other groups' videos and evaluate them.
