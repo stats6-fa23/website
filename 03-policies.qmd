@@ -10,7 +10,12 @@ toc: true
 
 Grades will **not** be curved and will **not** be rounded. The following weights will be adopted in calculating the total grade.
 
+### Weights
+
 {{< include specific-content/policies/03b-weights.qmd >}}
+
+
+### Letter Grades
 
 The weighted percentage score will be assigned a letter grade based on the following scheme:
   <br><br>
@@ -92,6 +97,10 @@ The weighted percentage score will be assigned a letter grade based on the follo
 
   </tbody>
   </table>
+  
+### Late Work Policy
+
+{{< include specific-content/policies/03c-late-policy.qmd >}}
 
 ## Getting Help
 
