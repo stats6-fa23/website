@@ -95,7 +95,14 @@
     "href": "01-index.html",
     "title": "IDS",
     "section": "",
-    "text": "Welcome to STATS 6 - Introduction to Data Science in Fall 2023\nThis course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None\n\n\n \n\nBy the end of this course you will be able to:\n\nexplore data using descriptive statistics and visualizations;\n\nread, write, and tidy up datasets;\n\nmake predictions and conclusions using models;\n\nconsider impact of decisions related to data on humans, other livings, and the planet;\n\nwrite human- and machine-readable code using R.\n\n\n\nMidterm exam on Nov 1, 2023 at 12:30 - 1:50 pm in class\nProject proposal due Nov 8, 2023 at 11:59 pm online\nProject submission due Dec 11th at 1:30 pm online\nProject peer evaluation on Dec 11th at 1:30 - 3:30 pm online"
+    "text": "Welcome to STATS 6 - Introduction to Data Science in Fall 2023\nThis course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
+  },
+  {
+    "objectID": "01-index.html#typical-weekly-workflow",
+    "href": "01-index.html#typical-weekly-workflow",
+    "title": "IDS",
+    "section": "Typical Weekly Workflow",
+    "text": "Typical Weekly Workflow\n\n\n\n\n\n  \n    \n        \n             Monday XX am | Rasul's office hours. \n             Monday 12:25 pm | Previous week's homework due \n             Monday 12:30 - 1: 50 pm | Lecture \n             Wednesday 12:30 - 1: 50 pm | Lecture \n             Wednesday 3:00 pm - 4:00 pm | Dr.  Dogucu's office hours \n             Friday XX pm | Rasul's office hours \n            \n        \n    \n  \n\n\n\nMidterm exam on Nov 1, 2023 at 12:30 - 1:50 pm in class\nProject proposal due Nov 8, 2023 at 11:59 pm online\nProject submission due Dec 11th at 1:30 pm online\nProject peer evaluation on Dec 11th at 1:30 - 3:30 pm online"
   },
   {
     "objectID": "02-people.html",
@@ -334,5 +341,19 @@
     "title": "IDS",
     "section": "",
     "text": "This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
+  },
+  {
+    "objectID": "specific-content/index/01c-week-workflow.html",
+    "href": "specific-content/index/01c-week-workflow.html",
+    "title": "IDS",
+    "section": "",
+    "text": "Monday XX am | Rasul's office hours. \n             Monday 12:25 pm | Previous week's homework due \n             Monday 12:30 - 1: 50 pm | Lecture \n             Wednesday 12:30 - 1: 50 pm | Lecture \n             Wednesday 3:00 pm - 4:00 pm | Dr.  Dogucu's office hours \n             Friday XX pm | Rasul's office hours"
+  },
+  {
+    "objectID": "specific-content/index/01c-week-workflow.html#typical-weekly-workflow",
+    "href": "specific-content/index/01c-week-workflow.html#typical-weekly-workflow",
+    "title": "IDS",
+    "section": "",
+    "text": "Monday XX am | Rasul's office hours. \n             Monday 12:25 pm | Previous week's homework due \n             Monday 12:30 - 1: 50 pm | Lecture \n             Wednesday 12:30 - 1: 50 pm | Lecture \n             Wednesday 3:00 pm - 4:00 pm | Dr.  Dogucu's office hours \n             Friday XX pm | Rasul's office hours"
   }
 ]
