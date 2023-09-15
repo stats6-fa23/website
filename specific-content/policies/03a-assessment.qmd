@@ -5,6 +5,8 @@ It is my intent to design assessments that are a source of intellectual curiosit
 In-Class quizzes are opportunity to practice as you are learning during the lectures. 
 The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. 
 You will be graded for participation, not for correctness.
+You need to be attending the lecture in order to receive the participation point. 
+If you are not in participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct.
 
 
 ### Homework Assignments

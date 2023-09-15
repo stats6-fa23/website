@@ -1,271 +1,5 @@
 [
   {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "IDS",
-    "section": "",
-    "text": "We will use two main textbooks for the course both of which are freely available online. You will not be expected to purchase paper copies.\nModern Data Science with R by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton.\nR for Data Science by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund"
-  },
-  {
-    "objectID": "tools.html#textbook",
-    "href": "tools.html#textbook",
-    "title": "IDS",
-    "section": "",
-    "text": "We will use two main textbooks for the course both of which are freely available online. You will not be expected to purchase paper copies.\nModern Data Science with R by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton.\nR for Data Science by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund"
-  },
-  {
-    "objectID": "tools.html#programming-tools",
-    "href": "tools.html#programming-tools",
-    "title": "IDS",
-    "section": "Programming Tools",
-    "text": "Programming Tools\nR and RStudio We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language.\nGit and GitHub We will use GitHub for version control with git. We will soon learn what version control means."
-  },
-  {
-    "objectID": "tools.html#other-software",
-    "href": "tools.html#other-software",
-    "title": "IDS",
-    "section": "Other Software",
-    "text": "Other Software\nWe will use an online forum where you can ask and answer questions. Please read guidelines for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.\nWe will use Gradescope for some of the assignments. You will get instructions on how to use Gradescope.\nWe will use Canvas for keeping track of grades.\nIf you are not on campus, you will need to connect through VPN to access resources that are only accessible on campus. Follow the instructions on the link."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IDS",
-    "section": "",
-    "text": "Welcome to STATS 6 - Introduction to Data Science in Fall 2023\nThis course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
-  },
-  {
-    "objectID": "index.html#typical-weekly-workflow",
-    "href": "index.html#typical-weekly-workflow",
-    "title": "IDS",
-    "section": "Typical Weekly Workflow",
-    "text": "Typical Weekly Workflow\n\n\n\n\n\n  \n    \n        \n             Monday XX am | Rasul's office hours. \n             Monday 12:25 pm | Previous week's homework due \n             Monday 12:30 - 1: 50 pm | Lecture \n             Wednesday 12:30 - 1: 50 pm | Lecture \n             Wednesday 3:00 pm - 4:00 pm | Dr.  Dogucu's office hours \n             Friday XX pm | Rasul's office hours \n            \n        \n    \n  \n\n\n\nMidterm exam on Nov 1, 2023 at 12:30 - 1:50 pm in class\nProject proposal due Nov 8, 2023 at 11:59 pm online\nProject submission due Dec 11th at 1:30 pm online\nProject peer evaluation on Dec 11th at 1:30 - 3:30 pm online"
-  },
-  {
-    "objectID": "policies.html",
-    "href": "policies.html",
-    "title": "IDS",
-    "section": "",
-    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\n\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness.\n\n\n\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 12:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\n\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\n\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30 pm. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
-  },
-  {
-    "objectID": "policies.html#assessment",
-    "href": "policies.html#assessment",
-    "title": "IDS",
-    "section": "",
-    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\n\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness.\n\n\n\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 12:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\n\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\n\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30 pm. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
-  },
-  {
-    "objectID": "policies.html#grading",
-    "href": "policies.html#grading",
-    "title": "IDS",
-    "section": "Grading",
-    "text": "Grading\nGrades will not be curved and will not be rounded. The following weights will be adopted in calculating the total grade.\n\nWeights\n\n\n\n\n\nComponent\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n10%\n\n\n\n\nHomework Assignments\n\n\n20%\n\n\n\n\nMidterm Exam\n\n\n30%\n\n\n\n\nProject\n\n\n40%\n\n\n\n\n\n\n\nLetter Grades\nThe weighted percentage score will be assigned a letter grade based on the following scheme: \n\n\n\n\n\nWeighted Total Percentage\n\n\nLetter Grade\n\n\n\n\n\n\n96.5 - 100\n\n\nA+\n\n\n\n\n93.5 - 96.499\n\n\nA\n\n\n\n\n90 - 93.499\n\n\nA-\n\n\n\n\n86.5 - 89.999\n\n\nB+\n\n\n\n\n83.5 - 86.499\n\n\nB\n\n\n\n\n80 - 83.499\n\n\nB-\n\n\n\n\n76.5 - 79.999\n\n\nC+\n\n\n\n\n73.5 - 76.499\n\n\nC\n\n\n\n\n70 - 73.499\n\n\nC-\n\n\n\n\n66.5 - 69.999\n\n\nD+\n\n\n\n\n63.5 - 66.499\n\n\nD\n\n\n\n\n60 - 63.499\n\n\nD-\n\n\n\n\n59.999 and below\n\n\nF\n\n\n\n\n\n\n\nLate Work Policy\nLate work is not accepted except for homework assignments. On homework assignments if the submission is later than the due date and time, then 25% of the achieved total grade will be deducted for every 12 hours that the submission is late. For example, if you were to get 12 points out of 15 on a homework assignment and you submitted 15 hours late then your score would be 6 points.\n\n\nRe-grade Requests\nWhile we will try our best to make sure that your grade is correct, it is possible for us to make minor mistakes in grading unfortunately. Thus, we strongly encourage you to go over your assignments to check for the correctness of your grade. You should immediately notify us if there are any errors. For all assignments other than the final, you have one-week after receiving feedback and grade from us to ask for regrading to correct any errors. For assignments on Gradescope you can send regrade requests directly within Gradescope. For others, you can email your TA and add me to CC field of the email. Note that the grade on Canvas Gradebook will be the official grade and you should check for its correctness."
-  },
-  {
-    "objectID": "policies.html#getting-help",
-    "href": "policies.html#getting-help",
-    "title": "IDS",
-    "section": "Getting Help",
-    "text": "Getting Help\n\nOffice Hours\nI would highly encourage you to attend office hours. Attending office hours is an effective way to ask me or your TA questions you may have. They are also a great time to just chat with us if it is not too crowded :)\nWe want to be mindful of you who commute to campus so if you’d choose to attend office hours virtually, we will also be available online via zoom. The hours and locations can be checked under People.\n\n\nOnline Discussion\nWe will have an online forum. While communicating online, please note the following:\n\nBefore posting a question, please make sure that the same question has not been posted before.\nRespect opinions of others.\nIf you choose to post memes or any jokes, be mindful. Any joke about a person, or a group of people, or cultures is not funny. However, statistics and data science jokes are always welcome.\nThere are absolutely no stupid questions. Do not feel shy about asking questions. Do not judge anyone about any question that they ask. You can post anonymously. Others would not know who you are but I would know who you are.\nIf somebody asks a question about homework etc. do not reveal answers for them. Instead, help them learn and show them in which lecture we have covered the topic.\nBe generous with likes. That means when you read something useful like the post, so that we all know that we are not talking to ourselves but to each other.\nAnswer each other’s questions.\n\n\n\nE-Mail\nPlease do not email me about course content unless it is private to you. If you are running into an issue, it is very likely that someone else is also having the same issue. Please post on the discussion forum so that we can all learn together. This way I would only answer the question once and everyone can benefit. In fact, your TA or one of your peers may even answer it before I do. You can get a much quicker response.\nWhile communicating over email, please make sure the email - has an informative subject line including the course code. - articulates your question or problem well. - has a closing statement such as Sincerely, Kind Regards* etc. - has your name at the end.\nHere is a sample email:\n\nSubject: STATS 6 - Your Subject\n\n\nDear Dr. Dogucu,\nI hope you are doing well (or some other humane sentence). I am writing to you regarding ______________ (Your concern or problem). (Any explanations, requests or suggestions for solutions to your problem)\nSincerely/Kind regards,\nYour name"
-  },
-  {
-    "objectID": "policies.html#academic-honesty",
-    "href": "policies.html#academic-honesty",
-    "title": "IDS",
-    "section": "Academic Honesty",
-    "text": "Academic Honesty\nYou are expected to comply to the rules set by the Office of Academic Integrity and Student Conduct. This syllabus (i.e., course website) clearly labels instructions on when and how you can work with others, tools you can use, and under what conditions. If there are no instructions for any assignments, you should assume that the work should be completed by you only from start to finish without help of others and AI tools like ChatGPT. Academic dishonesty includes, for example, cheating on examinations or any assignment, plagiarism of any kind (including improper citation of sources), having someone else take an examination or complete an assignment for you (or doing it for someone else), or any activity in which you represent someone else’s work as your own. Violations of academic integrity will be referred to the Office of Academic Integrity and Student Conduct. You cannot share or distribute solutions online or offline or in any media now or in the future. You cannot obtain solutions from others. If there is evidence of academic misconduct , intentionally or unintentionally, YOU WILL FAIL THE CLASS. This rule applies even if you violate the policies of this course on a single problem, on an assignment, the whole assignment or multiple assignments. No matter what the degree of academic dishonesty is, you will fail the class. It is your responsibility to protect your answers being copied. Make sure not to save work on shared folders. It may be difficult to distinguish helping each other learn and cheating together. If you are unsure of the distinction check with me before hand."
-  },
-  {
-    "objectID": "policies.html#dissability-accomodations",
-    "href": "policies.html#dissability-accomodations",
-    "title": "IDS",
-    "section": "Dissability Accomodations",
-    "text": "Dissability Accomodations\nUniversity of California, Irvine is committed to providing reasonable accommodations for all persons with permanent or temporary disabilities. This syllabus is available in alternate formats upon request. If you have a disability that impacts your participation in this class, please contact the Disability Services Center (DSC) as soon as possible. Students approved for accommodations will notify the instructor by sending out a Faculty Notification Letter from the DSC website. Disability Services Center - Continuing Education 3, Bldg #234 www.dsc.uci.edu - (949) 824-7494"
-  },
-  {
-    "objectID": "policies.html#diversity",
-    "href": "policies.html#diversity",
-    "title": "IDS",
-    "section": "Diversity",
-    "text": "Diversity\nThe University of California, Irvine, in accordance with applicable Federal and State law and University policy, does not discriminate on the basis of race, color, national origin, religion, sex, gender identity, pregnancy, physical or mental disability, medical condition (cancer-related or genetic characteristics), ancestry, marital status, age, sexual orientation, citizenship, or service in the uniformed services. The University also prohibits sexual harassment. This nondiscrimination policy covers admission, access, and treatment in University programs and activities."
-  },
-  {
-    "objectID": "policies.html#inclusion",
-    "href": "policies.html#inclusion",
-    "title": "IDS",
-    "section": "Inclusion",
-    "text": "Inclusion\nMy goal is to make everyone (yes, that includes you too) feel welcome, not only in my classroom but also in the field of statistics and data science. If there is any reason you do not feel welcome in this class, please talk to me. If anything is said to you that makes you feel uncomfortable, please talk to me. If there is any life event that is interfering with your learning in this class, please talk to me. I may not be able to solve all your problems, but I may be able to direct you to the right resources on campus."
-  },
-  {
-    "objectID": "policies.html#course-material-distribution",
-    "href": "policies.html#course-material-distribution",
-    "title": "IDS",
-    "section": "Course Material Distribution",
-    "text": "Course Material Distribution\nSelling, preparing, or distributing for any commercial purpose course lecture notes or video or audio recordings of any course unless authorized by the University in advance and explicitly permitted by the course instructor in writing. The unauthorized sale or commercial distribution of course notes or recordings by a student is a violation of these Policies whether or not it was the student or someone else who prepared the notes or recordings."
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "IDS",
-    "section": "",
-    "text": "Instructor\n Dr. Mine Dogucu\nshe/they\nmdogucu@uci.edu\n\nOffice Hours:  W 3:00 - 4:00 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Rasul Ibragimov\nhe/him\nibragimr@uci.edu\n\nOffice Hours:  TBD\n DBH 2013\n Zoom"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week00.html",
-    "href": "specific-content/schedule/04-week00.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week01.html",
-    "href": "specific-content/schedule/04-week01.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week03.html",
-    "href": "specific-content/schedule/04-week03.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week02.html",
-    "href": "specific-content/schedule/04-week02.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week06.html",
-    "href": "specific-content/schedule/04-week06.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week07.html",
-    "href": "specific-content/schedule/04-week07.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week05.html",
-    "href": "specific-content/schedule/04-week05.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week11.html",
-    "href": "specific-content/schedule/04-week11.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week10.html",
-    "href": "specific-content/schedule/04-week10.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week04.html",
-    "href": "specific-content/schedule/04-week04.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week09.html",
-    "href": "specific-content/schedule/04-week09.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week08.html",
-    "href": "specific-content/schedule/04-week08.html",
-    "title": "IDS",
-    "section": "",
-    "text": "TBA"
-  },
-  {
-    "objectID": "specific-content/policies/03c-late-policy.html",
-    "href": "specific-content/policies/03c-late-policy.html",
-    "title": "IDS",
-    "section": "",
-    "text": "Late work is not accepted except for homework assignments. On homework assignments if the submission is later than the due date and time, then 25% of the achieved total grade will be deducted for every 12 hours that the submission is late. For example, if you were to get 12 points out of 15 on a homework assignment and you submitted 15 hours late then your score would be 6 points."
-  },
-  {
-    "objectID": "specific-content/policies/03d-regrade.html",
-    "href": "specific-content/policies/03d-regrade.html",
-    "title": "IDS",
-    "section": "",
-    "text": "While we will try our best to make sure that your grade is correct, it is possible for us to make minor mistakes in grading unfortunately. Thus, we strongly encourage you to go over your assignments to check for the correctness of your grade. You should immediately notify us if there are any errors. For all assignments other than the final, you have one-week after receiving feedback and grade from us to ask for regrading to correct any errors. For assignments on Gradescope you can send regrade requests directly within Gradescope. For others, you can email your TA and add me to CC field of the email. Note that the grade on Canvas Gradebook will be the official grade and you should check for its correctness."
-  },
-  {
-    "objectID": "specific-content/policies/03a-assessment.html",
-    "href": "specific-content/policies/03a-assessment.html",
-    "title": "IDS",
-    "section": "",
-    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\nIn-Class Quizzes\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness.\n\n\nHomework Assignments\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 12:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\nMidterm Exam\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\nProject\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30 pm. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
-  },
-  {
-    "objectID": "specific-content/policies/03b-weights.html",
-    "href": "specific-content/policies/03b-weights.html",
-    "title": "IDS",
-    "section": "",
-    "text": "Component\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n10%\n\n\n\n\nHomework Assignments\n\n\n20%\n\n\n\n\nMidterm Exam\n\n\n30%\n\n\n\n\nProject\n\n\n40%"
-  },
-  {
-    "objectID": "specific-content/index/01b-course-goals.html",
-    "href": "specific-content/index/01b-course-goals.html",
-    "title": "IDS",
-    "section": "",
-    "text": "By the end of this course you will be able to:\n\nexplore data using descriptive statistics and visualizations;\n\nread, write, and tidy up datasets;\n\nmake predictions and conclusions using models;\n\nconsider impact of decisions related to data on humans, other livings, and the planet;\n\nwrite human- and machine-readable code using R."
-  },
-  {
-    "objectID": "specific-content/index/01d-important-dates.html",
-    "href": "specific-content/index/01d-important-dates.html",
-    "title": "IDS",
-    "section": "",
-    "text": "Midterm exam on Nov 1, 2023 at 12:30 - 1:50 pm in class\nProject proposal due Nov 8, 2023 at 11:59 pm online\nProject submission due Dec 11th at 1:30 pm online\nProject peer evaluation on Dec 11th at 1:30 - 3:30 pm online"
-  },
-  {
-    "objectID": "specific-content/index/01a-course-description.html",
-    "href": "specific-content/index/01a-course-description.html",
-    "title": "IDS",
-    "section": "",
-    "text": "This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
-  },
-  {
-    "objectID": "specific-content/index/01c-week-workflow.html",
-    "href": "specific-content/index/01c-week-workflow.html",
-    "title": "IDS",
-    "section": "",
-    "text": "Monday XX am | Rasul's office hours. \n             Monday 12:25 pm | Previous week's homework due \n             Monday 12:30 - 1: 50 pm | Lecture \n             Wednesday 12:30 - 1: 50 pm | Lecture \n             Wednesday 3:00 pm - 4:00 pm | Dr.  Dogucu's office hours \n             Friday XX pm | Rasul's office hours"
-  },
-  {
-    "objectID": "specific-content/index/01c-week-workflow.html#typical-weekly-workflow",
-    "href": "specific-content/index/01c-week-workflow.html#typical-weekly-workflow",
-    "title": "IDS",
-    "section": "",
-    "text": "Monday XX am | Rasul's office hours. \n             Monday 12:25 pm | Previous week's homework due \n             Monday 12:30 - 1: 50 pm | Lecture \n             Wednesday 12:30 - 1: 50 pm | Lecture \n             Wednesday 3:00 pm - 4:00 pm | Dr.  Dogucu's office hours \n             Friday XX pm | Rasul's office hours"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "IDS",
-    "section": "",
-    "text": "UCI Counselling Center\nThe counseling center offers free counseling to students. You do not need health insurance.\n\n\nUCI Basic Needs Center\nUCI Basic Needs Center offers services to UCI students to help them meet their basic needs including food.\n\n\nUCI Dream Center\nThe UCI DREAM Center stands with and serves those impacted by immigration policy.\n\n\nAddressing People in Academia\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\n\n\nTips on Recommendation Letters for Students and Instructors\nThis blog post provides suggestions on asking for recommendation letters as part of graduate school applications"
-  },
-  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "IDS",
@@ -355,5 +89,271 @@
     "title": "IDS",
     "section": "Final Week",
     "text": "Final Week\nTBA"
+  },
+  {
+    "objectID": "specific-content/index/01c-week-workflow.html",
+    "href": "specific-content/index/01c-week-workflow.html",
+    "title": "IDS",
+    "section": "",
+    "text": "Monday 10:00 - 11:00 am | Rasul's office hours. \n             Monday 12:25 pm | Previous week's homework due \n             Monday 12:30 - 1: 50 pm | Lecture \n             Wednesday 12:30 - 1: 50 pm | Lecture \n             Wednesday 3:00 pm - 4:00 pm | Dr.  Dogucu's office hours \n             Friday 1:30 - 2:30 pm | Rasul's office hours"
+  },
+  {
+    "objectID": "specific-content/index/01c-week-workflow.html#typical-weekly-workflow",
+    "href": "specific-content/index/01c-week-workflow.html#typical-weekly-workflow",
+    "title": "IDS",
+    "section": "",
+    "text": "Monday 10:00 - 11:00 am | Rasul's office hours. \n             Monday 12:25 pm | Previous week's homework due \n             Monday 12:30 - 1: 50 pm | Lecture \n             Wednesday 12:30 - 1: 50 pm | Lecture \n             Wednesday 3:00 pm - 4:00 pm | Dr.  Dogucu's office hours \n             Friday 1:30 - 2:30 pm | Rasul's office hours"
+  },
+  {
+    "objectID": "specific-content/index/01d-important-dates.html",
+    "href": "specific-content/index/01d-important-dates.html",
+    "title": "IDS",
+    "section": "",
+    "text": "Midterm exam on Nov 1, 2023 at 12:30 - 1:50 pm in class\nProject proposal due Nov 8, 2023 at 11:59 pm online\nProject submission due Dec 11th at 1:30 pm online\nProject peer evaluation on Dec 11th at 1:30 - 3:30 pm online"
+  },
+  {
+    "objectID": "specific-content/policies/03b-weights.html",
+    "href": "specific-content/policies/03b-weights.html",
+    "title": "IDS",
+    "section": "",
+    "text": "Component\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n10%\n\n\n\n\nHomework Assignments\n\n\n20%\n\n\n\n\nMidterm Exam\n\n\n30%\n\n\n\n\nProject\n\n\n40%"
+  },
+  {
+    "objectID": "specific-content/policies/03d-regrade.html",
+    "href": "specific-content/policies/03d-regrade.html",
+    "title": "IDS",
+    "section": "",
+    "text": "While we will try our best to make sure that your grade is correct, it is possible for us to make minor mistakes in grading unfortunately. Thus, we strongly encourage you to go over your assignments to check for the correctness of your grade. You should immediately notify us if there are any errors. For all assignments other than the final, you have one-week after receiving feedback and grade from us to ask for regrading to correct any errors. For assignments on Gradescope you can send regrade requests directly within Gradescope. For others, you can email your TA and add me to CC field of the email. Note that the grade on Canvas Gradebook will be the official grade and you should check for its correctness."
+  },
+  {
+    "objectID": "specific-content/schedule/04-week08.html",
+    "href": "specific-content/schedule/04-week08.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week04.html",
+    "href": "specific-content/schedule/04-week04.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week11.html",
+    "href": "specific-content/schedule/04-week11.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week07.html",
+    "href": "specific-content/schedule/04-week07.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week02.html",
+    "href": "specific-content/schedule/04-week02.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week01.html",
+    "href": "specific-content/schedule/04-week01.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "IDS",
+    "section": "",
+    "text": "Instructor\n Dr. Mine Dogucu\nshe/they\nmdogucu@uci.edu\n\nOffice Hours:  W 3:00 - 4:00 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Rasul Ibragimov\nhe/him\nibragimr@uci.edu\n\nOffice Hours:  M 10: 00 - 11 am and F 1:30 - 2:30 pm in person and online\n DBH 2013\n Zoom"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IDS",
+    "section": "",
+    "text": "Welcome to STATS 6 - Introduction to Data Science in Fall 2023\nThis course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
+  },
+  {
+    "objectID": "index.html#typical-weekly-workflow",
+    "href": "index.html#typical-weekly-workflow",
+    "title": "IDS",
+    "section": "Typical Weekly Workflow",
+    "text": "Typical Weekly Workflow\n\n\n\n\n\n  \n    \n        \n             Monday 10:00 - 11:00 am | Rasul's office hours. \n             Monday 12:25 pm | Previous week's homework due \n             Monday 12:30 - 1: 50 pm | Lecture \n             Wednesday 12:30 - 1: 50 pm | Lecture \n             Wednesday 3:00 pm - 4:00 pm | Dr.  Dogucu's office hours \n             Friday 1:30 - 2:30 pm | Rasul's office hours \n            \n        \n    \n  \n\n\n\nMidterm exam on Nov 1, 2023 at 12:30 - 1:50 pm in class\nProject proposal due Nov 8, 2023 at 11:59 pm online\nProject submission due Dec 11th at 1:30 pm online\nProject peer evaluation on Dec 11th at 1:30 - 3:30 pm online"
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "IDS",
+    "section": "",
+    "text": "We will use two main textbooks for the course both of which are freely available online. You will not be expected to purchase paper copies.\nModern Data Science with R by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton.\nR for Data Science by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund"
+  },
+  {
+    "objectID": "tools.html#textbook",
+    "href": "tools.html#textbook",
+    "title": "IDS",
+    "section": "",
+    "text": "We will use two main textbooks for the course both of which are freely available online. You will not be expected to purchase paper copies.\nModern Data Science with R by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton.\nR for Data Science by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund"
+  },
+  {
+    "objectID": "tools.html#programming-tools",
+    "href": "tools.html#programming-tools",
+    "title": "IDS",
+    "section": "Programming Tools",
+    "text": "Programming Tools\nR and RStudio We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language.\nGit and GitHub We will use GitHub for version control with git. We will soon learn what version control means."
+  },
+  {
+    "objectID": "tools.html#other-software",
+    "href": "tools.html#other-software",
+    "title": "IDS",
+    "section": "Other Software",
+    "text": "Other Software\nWe will use an online forum where you can ask and answer questions. Please read guidelines for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.\nWe will use Gradescope for some of the assignments. You will get instructions on how to use Gradescope.\nWe will use Canvas for keeping track of grades.\nIf you are not on campus, you will need to connect through VPN to access resources that are only accessible on campus. Follow the instructions on the link."
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "IDS",
+    "section": "",
+    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\n\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness. You need to be attending the lecture in order to receive the participation point. If you are not in participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct.\n\n\n\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 12:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\n\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\n\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30 pm. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
+  },
+  {
+    "objectID": "policies.html#assessment",
+    "href": "policies.html#assessment",
+    "title": "IDS",
+    "section": "",
+    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\n\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness. You need to be attending the lecture in order to receive the participation point. If you are not in participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct.\n\n\n\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 12:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\n\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\n\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30 pm. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
+  },
+  {
+    "objectID": "policies.html#grading",
+    "href": "policies.html#grading",
+    "title": "IDS",
+    "section": "Grading",
+    "text": "Grading\nGrades will not be curved and will not be rounded. The following weights will be adopted in calculating the total grade.\n\nWeights\n\n\n\n\n\nComponent\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n10%\n\n\n\n\nHomework Assignments\n\n\n20%\n\n\n\n\nMidterm Exam\n\n\n30%\n\n\n\n\nProject\n\n\n40%\n\n\n\n\n\n\n\nLetter Grades\nThe weighted percentage score will be assigned a letter grade based on the following scheme: \n\n\n\n\n\nWeighted Total Percentage\n\n\nLetter Grade\n\n\n\n\n\n\n96.5 - 100\n\n\nA+\n\n\n\n\n93.5 - 96.499\n\n\nA\n\n\n\n\n90 - 93.499\n\n\nA-\n\n\n\n\n86.5 - 89.999\n\n\nB+\n\n\n\n\n83.5 - 86.499\n\n\nB\n\n\n\n\n80 - 83.499\n\n\nB-\n\n\n\n\n76.5 - 79.999\n\n\nC+\n\n\n\n\n73.5 - 76.499\n\n\nC\n\n\n\n\n70 - 73.499\n\n\nC-\n\n\n\n\n66.5 - 69.999\n\n\nD+\n\n\n\n\n63.5 - 66.499\n\n\nD\n\n\n\n\n60 - 63.499\n\n\nD-\n\n\n\n\n59.999 and below\n\n\nF\n\n\n\n\n\n\n\nLate Work Policy\nLate work is not accepted except for homework assignments. On homework assignments if the submission is later than the due date and time, then 25% of the achieved total grade will be deducted for every 12 hours that the submission is late. For example, if you were to get 12 points out of 15 on a homework assignment and you submitted 15 hours late then your score would be 6 points.\n\n\nRe-grade Requests\nWhile we will try our best to make sure that your grade is correct, it is possible for us to make minor mistakes in grading unfortunately. Thus, we strongly encourage you to go over your assignments to check for the correctness of your grade. You should immediately notify us if there are any errors. For all assignments other than the final, you have one-week after receiving feedback and grade from us to ask for regrading to correct any errors. For assignments on Gradescope you can send regrade requests directly within Gradescope. For others, you can email your TA and add me to CC field of the email. Note that the grade on Canvas Gradebook will be the official grade and you should check for its correctness."
+  },
+  {
+    "objectID": "policies.html#getting-help",
+    "href": "policies.html#getting-help",
+    "title": "IDS",
+    "section": "Getting Help",
+    "text": "Getting Help\n\nOffice Hours\nI would highly encourage you to attend office hours. Attending office hours is an effective way to ask me or your TA questions you may have. They are also a great time to just chat with us if it is not too crowded :)\nWe want to be mindful of you who commute to campus so if you’d choose to attend office hours virtually, we will also be available online via zoom. The hours and locations can be checked under People. You will need to use your UCI zoom account to attend the zoom meeting.\n\n\nOnline Discussion\nWe will have an online forum. While communicating online, please note the following:\n\nBefore posting a question, please make sure that the same question has not been posted before.\nRespect opinions of others.\nIf you choose to post memes or any jokes, be mindful. Any joke about a person, or a group of people, or cultures is not funny. However, statistics and data science jokes are always welcome.\nThere are absolutely no stupid questions. Do not feel shy about asking questions. Do not judge anyone about any question that they ask. You can post anonymously. Others would not know who you are but I would know who you are.\nIf somebody asks a question about homework etc. do not reveal answers for them. Instead, help them learn and show them in which lecture we have covered the topic.\nBe generous with likes. That means when you read something useful like the post, so that we all know that we are not talking to ourselves but to each other.\nAnswer each other’s questions.\n\n\n\nE-Mail\nPlease do not email me about course content unless it is private to you. If you are running into an issue, it is very likely that someone else is also having the same issue. Please post on the discussion forum so that we can all learn together. This way I would only answer the question once and everyone can benefit. In fact, your TA or one of your peers may even answer it before I do. You can get a much quicker response.\nWhile communicating over email, please make sure the email - has an informative subject line including the course code. - articulates your question or problem well. - has a closing statement such as Sincerely, Kind Regards* etc. - has your name at the end.\nHere is a sample email:\n\nSubject: STATS 6 - Your Subject\n\n\nDear Dr. Dogucu,\nI hope you are doing well (or some other humane sentence). I am writing to you regarding ______________ (Your concern or problem). (Any explanations, requests or suggestions for solutions to your problem)\nSincerely/Kind regards,\nYour name"
+  },
+  {
+    "objectID": "policies.html#academic-honesty",
+    "href": "policies.html#academic-honesty",
+    "title": "IDS",
+    "section": "Academic Honesty",
+    "text": "Academic Honesty\nYou are expected to comply to the rules set by the Office of Academic Integrity and Student Conduct. This syllabus (i.e., course website) clearly labels instructions on when and how you can work with others, tools you can use, and under what conditions. If there are no instructions for any assignments, you should assume that the work should be completed by you only from start to finish without help of others and AI tools like ChatGPT. Academic dishonesty includes, for example, cheating on examinations or any assignment, plagiarism of any kind (including improper citation of sources), having someone else take an examination or complete an assignment for you (or doing it for someone else), or any activity in which you represent someone else’s work as your own. Violations of academic integrity will be referred to the Office of Academic Integrity and Student Conduct. You cannot share or distribute solutions online or offline or in any media now or in the future. You cannot obtain solutions from others. If there is evidence of academic misconduct , intentionally or unintentionally, YOU WILL FAIL THE CLASS. This rule applies even if you violate the policies of this course on a single problem, on an assignment, the whole assignment or multiple assignments. No matter what the degree of academic dishonesty is, you will fail the class. It is your responsibility to protect your answers being copied. Make sure not to save work on shared folders. It may be difficult to distinguish helping each other learn and cheating together. If you are unsure of the distinction check with me before hand."
+  },
+  {
+    "objectID": "policies.html#dissability-accomodations",
+    "href": "policies.html#dissability-accomodations",
+    "title": "IDS",
+    "section": "Dissability Accomodations",
+    "text": "Dissability Accomodations\nUniversity of California, Irvine is committed to providing reasonable accommodations for all persons with permanent or temporary disabilities. This syllabus is available in alternate formats upon request. If you have a disability that impacts your participation in this class, please contact the Disability Services Center (DSC) as soon as possible. Students approved for accommodations will notify the instructor by sending out a Faculty Notification Letter from the DSC website. Disability Services Center - Continuing Education 3, Bldg #234 www.dsc.uci.edu - (949) 824-7494"
+  },
+  {
+    "objectID": "policies.html#diversity",
+    "href": "policies.html#diversity",
+    "title": "IDS",
+    "section": "Diversity",
+    "text": "Diversity\nThe University of California, Irvine, in accordance with applicable Federal and State law and University policy, does not discriminate on the basis of race, color, national origin, religion, sex, gender identity, pregnancy, physical or mental disability, medical condition (cancer-related or genetic characteristics), ancestry, marital status, age, sexual orientation, citizenship, or service in the uniformed services. The University also prohibits sexual harassment. This nondiscrimination policy covers admission, access, and treatment in University programs and activities."
+  },
+  {
+    "objectID": "policies.html#inclusion",
+    "href": "policies.html#inclusion",
+    "title": "IDS",
+    "section": "Inclusion",
+    "text": "Inclusion\nMy goal is to make everyone (yes, that includes you too) feel welcome, not only in my classroom but also in the field of statistics and data science. If there is any reason you do not feel welcome in this class, please talk to me. If anything is said to you that makes you feel uncomfortable, please talk to me. If there is any life event that is interfering with your learning in this class, please talk to me. I may not be able to solve all your problems, but I may be able to direct you to the right resources on campus."
+  },
+  {
+    "objectID": "policies.html#course-material-distribution",
+    "href": "policies.html#course-material-distribution",
+    "title": "IDS",
+    "section": "Course Material Distribution",
+    "text": "Course Material Distribution\nSelling, preparing, or distributing for any commercial purpose course lecture notes or video or audio recordings of any course unless authorized by the University in advance and explicitly permitted by the course instructor in writing. The unauthorized sale or commercial distribution of course notes or recordings by a student is a violation of these Policies whether or not it was the student or someone else who prepared the notes or recordings."
+  },
+  {
+    "objectID": "specific-content/schedule/04-week00.html",
+    "href": "specific-content/schedule/04-week00.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week03.html",
+    "href": "specific-content/schedule/04-week03.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week06.html",
+    "href": "specific-content/schedule/04-week06.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week05.html",
+    "href": "specific-content/schedule/04-week05.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week10.html",
+    "href": "specific-content/schedule/04-week10.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week09.html",
+    "href": "specific-content/schedule/04-week09.html",
+    "title": "IDS",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "specific-content/policies/03c-late-policy.html",
+    "href": "specific-content/policies/03c-late-policy.html",
+    "title": "IDS",
+    "section": "",
+    "text": "Late work is not accepted except for homework assignments. On homework assignments if the submission is later than the due date and time, then 25% of the achieved total grade will be deducted for every 12 hours that the submission is late. For example, if you were to get 12 points out of 15 on a homework assignment and you submitted 15 hours late then your score would be 6 points."
+  },
+  {
+    "objectID": "specific-content/policies/03a-assessment.html",
+    "href": "specific-content/policies/03a-assessment.html",
+    "title": "IDS",
+    "section": "",
+    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\nIn-Class Quizzes\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness. You need to be attending the lecture in order to receive the participation point. If you are not in participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct.\n\n\nHomework Assignments\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due 12:25 pm on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.\n\nUse tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.\nDo not copy as is from the internet or your peers or any other person.\nDo not pay someone or a website to do the work for you.\nThe work you submit should be reflective of your understanding. In other words, the teaching assistant and I hold the right to question you anytime about your submission. If you cannot answer about, discuss, articulate what you have submitted then we might look further into if the work submitted is not yours or copied and take appropriate action.\nAt the end of each homework, you will be asked whether you have done the homework by yourself, with a peer(s), or used tools like ChatGPT. If using ChatGPT, then you will be asked to submit your prompts and how it supported your learning. If you do not acknowledge any help from a person or ChatGPT, we will consider this cheating.\n\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\nMidterm Exam\nMidterm exam will be held in-person, in-class on Nov 1st. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and thus you will not be allowed to use one.\n\n\nProject\nYou will complete a project with a group mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by Nov 8th at 11:59 pm and submit a final video presentation, along with the final state of data analysis by Dec 11th at 1:30 pm. You will notice that our allocated final exam time for this class is Dec 11th at 1:30 - 3:30 pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them."
+  },
+  {
+    "objectID": "specific-content/index/01b-course-goals.html",
+    "href": "specific-content/index/01b-course-goals.html",
+    "title": "IDS",
+    "section": "",
+    "text": "By the end of this course you will be able to:\n\nexplore data using descriptive statistics and visualizations;\n\nread, write, and tidy up datasets;\n\nmake predictions and conclusions using models;\n\nconsider impact of decisions related to data on humans, other livings, and the planet;\n\nwrite human- and machine-readable code using R."
+  },
+  {
+    "objectID": "specific-content/index/01a-course-description.html",
+    "href": "specific-content/index/01a-course-description.html",
+    "title": "IDS",
+    "section": "",
+    "text": "This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "IDS",
+    "section": "",
+    "text": "UCI Counselling Center\nThe counseling center offers free counseling to students. You do not need health insurance.\n\n\nUCI Basic Needs Center\nUCI Basic Needs Center offers services to UCI students to help them meet their basic needs including food.\n\n\nUCI Dream Center\nThe UCI DREAM Center stands with and serves those impacted by immigration policy.\n\n\nAddressing People in Academia\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\n\n\nTips on Recommendation Letters for Students and Instructors\nThis blog post provides suggestions on asking for recommendation letters as part of graduate school applications"
   }
 ]

@@ -114,7 +114,7 @@ I would highly encourage you to attend office hours.
 Attending office hours is an effective way to ask me or your TA questions you may have.
 They are also a great time to just chat with us if it is not too crowded :)
 
-We want to be mindful of you who commute to campus so if you'd choose to attend office hours virtually, we will also be available online via zoom. The hours and locations can be checked under [People](people.qmd).
+We want to be mindful of you who commute to campus so if you'd choose to attend office hours virtually, we will also be available online via zoom. The hours and locations can be checked under [People](people.qmd). You will need to use your [UCI zoom account](https://uci.zoom.us/) to attend the zoom meeting.
 
 
 ### Online Discussion 
