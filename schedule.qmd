@@ -4,7 +4,7 @@ toc: true
 
 ## Week 0
 
-{{< include specific-content/schedule/04-week01.qmd >}}
+{{< include specific-content/schedule/04-week00.qmd >}}
 
 ## Week 1
 
