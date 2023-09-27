@@ -4,14 +4,14 @@
     "href": "schedule.html",
     "title": "IDS",
     "section": "",
-    "text": "Sept 28 - Oct 1\n Getting Ready for STATS 6\n\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nGetting to Know the Course Website    \n\n\nTake time go over the contents of this website, especially read the policies section. Do not forget to bookmark introdata.science.\n\n\n\n\n\n\n\n\n\n\n\nGet a GitHub username\n\n\n\n\n \n\n\nIMMEDIATELY\n\n\n\n\n\n\n\nIntroduce Yourself to Your Classmates\n\n\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nIntroduce Yourself to the Teaching Team\n\n\nThe responses to this “quiz” will not be available to your classmates. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nGet Your Tech Ready\n\n\nThe responses to this “quiz” will help us make sure that you are ready for the first class in terms of your tech needs. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm"
+    "text": "Sept 28 - Oct 1\n Getting Ready for STATS 6\n\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nGetting to Know the Course Website    \n\n\nTake time go over the contents of this website, especially read the policies section. Do not forget to bookmark introdata.science.\n\n\n\n\n\n\n\n\n\n\n\nGet a GitHub username\n\n\n\n\n \n\n\nIMMEDIATELY\n\n\n\n\n\n\n\nIntroduce Yourself to Your Classmates\n\n\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nIntroduce Yourself to the Teaching Team\n\n\nThe responses to this “quiz” will not be available to your classmates. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nGet Your Tech Ready\n\n\nThe responses to this “quiz” will help us make sure that you are ready for the first class in terms of your tech needs. The quiz is not timed but it will take about half an hour to an hour to complete all the tasks.\n\n\n \n\n\nOct 1, 11:59 pm"
   },
   {
     "objectID": "schedule.html#week-0",
     "href": "schedule.html#week-0",
     "title": "IDS",
     "section": "",
-    "text": "Sept 28 - Oct 1\n Getting Ready for STATS 6\n\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nGetting to Know the Course Website    \n\n\nTake time go over the contents of this website, especially read the policies section. Do not forget to bookmark introdata.science.\n\n\n\n\n\n\n\n\n\n\n\nGet a GitHub username\n\n\n\n\n \n\n\nIMMEDIATELY\n\n\n\n\n\n\n\nIntroduce Yourself to Your Classmates\n\n\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nIntroduce Yourself to the Teaching Team\n\n\nThe responses to this “quiz” will not be available to your classmates. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nGet Your Tech Ready\n\n\nThe responses to this “quiz” will help us make sure that you are ready for the first class in terms of your tech needs. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm"
+    "text": "Sept 28 - Oct 1\n Getting Ready for STATS 6\n\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nGetting to Know the Course Website    \n\n\nTake time go over the contents of this website, especially read the policies section. Do not forget to bookmark introdata.science.\n\n\n\n\n\n\n\n\n\n\n\nGet a GitHub username\n\n\n\n\n \n\n\nIMMEDIATELY\n\n\n\n\n\n\n\nIntroduce Yourself to Your Classmates\n\n\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nIntroduce Yourself to the Teaching Team\n\n\nThe responses to this “quiz” will not be available to your classmates. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nGet Your Tech Ready\n\n\nThe responses to this “quiz” will help us make sure that you are ready for the first class in terms of your tech needs. The quiz is not timed but it will take about half an hour to an hour to complete all the tasks.\n\n\n \n\n\nOct 1, 11:59 pm"
   },
   {
     "objectID": "schedule.html#week-1",
@@ -175,6 +175,62 @@
     "text": "Instructor\n Dr. Mine Dogucu\nshe/they\nmdogucu@uci.edu\n\nOffice Hours:  W 3:00 - 4:00 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Rasul Ibragimov\nhe/him\nibragimr@uci.edu\n\nOffice Hours:  M 10: 00 - 11 am and F 1:30 - 2:30 pm in person and online\n DBH 2013\n Zoom"
   },
   {
+    "objectID": "slides/week00/0a-git-setup.html#goals",
+    "href": "slides/week00/0a-git-setup.html#goals",
+    "title": "Git/Hub Setup",
+    "section": "Goals",
+    "text": "Goals\n\nInstall git\nIntroduce yourself to git\nSetup SSH key"
+  },
+  {
+    "objectID": "slides/week00/0a-git-setup.html#section",
+    "href": "slides/week00/0a-git-setup.html#section",
+    "title": "Git/Hub Setup",
+    "section": "",
+    "text": "Goal 1: Install git"
+  },
+  {
+    "objectID": "slides/week00/0a-git-setup.html#check-to-see-if-you-already-have-git",
+    "href": "slides/week00/0a-git-setup.html#check-to-see-if-you-already-have-git",
+    "title": "Git/Hub Setup",
+    "section": "Check to see if you already have git",
+    "text": "Check to see if you already have git"
+  },
+  {
+    "objectID": "slides/week00/0a-git-setup.html#install-git-on-windows",
+    "href": "slides/week00/0a-git-setup.html#install-git-on-windows",
+    "title": "Git/Hub Setup",
+    "section": "Install git on Windows",
+    "text": "Install git on Windows\n\nGit for Windows"
+  },
+  {
+    "objectID": "slides/week00/0a-git-setup.html#install-git-on-mac",
+    "href": "slides/week00/0a-git-setup.html#install-git-on-mac",
+    "title": "Git/Hub Setup",
+    "section": "Install git on Mac",
+    "text": "Install git on Mac"
+  },
+  {
+    "objectID": "slides/week00/0a-git-setup.html#section-1",
+    "href": "slides/week00/0a-git-setup.html#section-1",
+    "title": "Git/Hub Setup",
+    "section": "",
+    "text": "Goal 2: Introduce yourself to git"
+  },
+  {
+    "objectID": "slides/week00/0a-git-setup.html#section-3",
+    "href": "slides/week00/0a-git-setup.html#section-3",
+    "title": "Git/Hub Setup",
+    "section": "",
+    "text": "Goal 3: Setup SSH key"
+  },
+  {
+    "objectID": "slides/week00/0a-git-setup.html#section-4",
+    "href": "slides/week00/0a-git-setup.html#section-4",
+    "title": "Git/Hub Setup",
+    "section": "",
+    "text": "introdata.science"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "IDS",
@@ -280,11 +336,123 @@
     "text": "Course Material Distribution\nSelling, preparing, or distributing for any commercial purpose course lecture notes or video or audio recordings of any course unless authorized by the University in advance and explicitly permitted by the course instructor in writing. The unauthorized sale or commercial distribution of course notes or recordings by a student is a violation of these Policies whether or not it was the student or someone else who prepared the notes or recordings."
   },
   {
+    "objectID": "slides/templates/slide-template.html#quarto",
+    "href": "slides/templates/slide-template.html#quarto",
+    "title": "Template for All Slides",
+    "section": "Quarto",
+    "text": "Quarto\nHi Quarto! Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#bullets",
+    "href": "slides/templates/slide-template.html#bullets",
+    "title": "Template for All Slides",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#code",
+    "href": "slides/templates/slide-template.html#code",
+    "title": "Template for All Slides",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#more-code",
+    "href": "slides/templates/slide-template.html#more-code",
+    "title": "Template for All Slides",
+    "section": "More code",
+    "text": "More code\n\nlibrary(magrittr)\nlm(mpg ~ am, data = mtcars) %&gt;% \n  broom::tidy()\n\n# A tibble: 2 × 5\n  term        estimate std.error statistic  p.value\n  &lt;chr&gt;          &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;    &lt;dbl&gt;\n1 (Intercept)    17.1       1.12     15.2  1.13e-15\n2 am              7.24      1.76      4.11 2.85e- 4"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#highlight-specific-lines-of-code",
+    "href": "slides/templates/slide-template.html#highlight-specific-lines-of-code",
+    "title": "Template for All Slides",
+    "section": "Highlight Specific Lines of Code",
+    "text": "Highlight Specific Lines of Code\n\na &lt;- 1\nb &lt;- 1\na + b\n\n[1] 2"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#code-annotation",
+    "href": "slides/templates/slide-template.html#code-annotation",
+    "title": "Template for All Slides",
+    "section": "Code Annotation",
+    "text": "Code Annotation\n\nlibrary(beepr)\n1beep()\n2# a comment\n\n\n1\n\nHere we can explain what that line of code is doing.\n\n2\n\nHere we can explain that the second line is just a comment."
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#math",
+    "href": "slides/templates/slide-template.html#math",
+    "title": "Template for All Slides",
+    "section": "Math",
+    "text": "Math\nWe can add a centered equation\n\\[x+7\\beta\\]\nor left aligned:\n\\(x+7 +\\mu\\)"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#figure",
+    "href": "slides/templates/slide-template.html#figure",
+    "title": "Template for All Slides",
+    "section": "Figure",
+    "text": "Figure\nWe can add an a figure with a caption and an alternate text\n\nThis is the figure caption"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#incremental-text",
+    "href": "slides/templates/slide-template.html#incremental-text",
+    "title": "Template for All Slides",
+    "section": "Incremental Text",
+    "text": "Incremental Text\nTo display text incrementally, three dots with spaces can be used on a new line . . .\n\nBy default, qmd displays bullet points and enumerated text (i.e., lists) incrementally, this can ben changed in the YAML (top) section of the document by setting incremental: false.\n\n\nOr it can be turned off for a specific part of the document\n\n\n1st Item\n2nd Item"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#divide-slide-into-columns",
+    "href": "slides/templates/slide-template.html#divide-slide-into-columns",
+    "title": "Template for All Slides",
+    "section": "Divide slide into columns",
+    "text": "Divide slide into columns\n\n\nLeft column\n\nRight column"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#code-and-output-in-two-columns",
+    "href": "slides/templates/slide-template.html#code-and-output-in-two-columns",
+    "title": "Template for All Slides",
+    "section": "Code and Output in Two Columns",
+    "text": "Code and Output in Two Columns\n\n\nsummary(mtcars)\n\n\n      mpg             cyl             disp             hp       \n Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  \n 1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  \n Median :19.20   Median :6.000   Median :196.3   Median :123.0  \n Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  \n 3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  \n Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  \n      drat             wt             qsec             vs        \n Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  \n 1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  \n Median :3.695   Median :3.325   Median :17.71   Median :0.0000  \n Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  \n 3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  \n Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  \n       am              gear            carb      \n Min.   :0.0000   Min.   :3.000   Min.   :1.000  \n 1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  \n Median :0.0000   Median :4.000   Median :2.000  \n Mean   :0.4062   Mean   :3.688   Mean   :2.812  \n 3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  \n Max.   :1.0000   Max.   :5.000   Max.   :8.000"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#code-and-output-in-deparate-slides",
+    "href": "slides/templates/slide-template.html#code-and-output-in-deparate-slides",
+    "title": "Template for All Slides",
+    "section": "Code and Output in Deparate Slides",
+    "text": "Code and Output in Deparate Slides\n\nsummary(mtcars)"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#code-and-output-in-deparate-slides-output",
+    "href": "slides/templates/slide-template.html#code-and-output-in-deparate-slides-output",
+    "title": "Template for All Slides",
+    "section": "Code and Output in Deparate Slides",
+    "text": "Code and Output in Deparate Slides\n\n      mpg             cyl             disp             hp       \n Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  \n 1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  \n Median :19.20   Median :6.000   Median :196.3   Median :123.0  \n Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  \n 3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  \n Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  \n      drat             wt             qsec             vs        \n Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  \n 1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  \n Median :3.695   Median :3.325   Median :17.71   Median :0.0000  \n Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  \n 3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  \n Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  \n       am              gear            carb      \n Min.   :0.0000   Min.   :3.000   Min.   :1.000  \n 1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  \n Median :0.0000   Median :4.000   Median :2.000  \n Mean   :0.4062   Mean   :3.688   Mean   :2.812  \n 3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  \n Max.   :1.0000   Max.   :5.000   Max.   :8.000"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#tabsets-as-shown-on-quarto-website",
+    "href": "slides/templates/slide-template.html#tabsets-as-shown-on-quarto-website",
+    "title": "Template for All Slides",
+    "section": "Tabsets as Shown on Quarto Website",
+    "text": "Tabsets as Shown on Quarto Website\n\nTab ATab B\n\n\nContent for Tab A\n\n\nContent for Tab B"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#standard-quarto-callouts",
+    "href": "slides/templates/slide-template.html#standard-quarto-callouts",
+    "title": "Template for All Slides",
+    "section": "Standard Quarto callouts",
+    "text": "Standard Quarto callouts\n\n\n\n\n\n\nNote with custom title\n\n\nThese are main types of callouts: note, warning, important, tip.\n\n\n\n\n\n\n\n\n\nWarning\n\n\nThis is a warning\n\n\n\n\n\n\n\n\n\nThis is important!\n\n\nThis is an important information.\n\n\n\n\n\n\n\n\n\nTip\n\n\nBreathe!"
+  },
+  {
+    "objectID": "slides/templates/slide-template.html#customized-callouts",
+    "href": "slides/templates/slide-template.html#customized-callouts",
+    "title": "Template for All Slides",
+    "section": "Customized callouts",
+    "text": "Customized callouts\n\n\n\nExercise\n\n\nExercise text goes here\n\n\n\n\n\n\nDiscussion question\n\n\nQuestion to discuss\n\n\n\n\n\n\nExample\n\n\nHere is an example with some math symbols \\(\\alpha, \\beta\\)\n\n\n\n\n\n\nintrodata.science"
+  },
+  {
     "objectID": "specific-content/schedule/04-week00.html",
     "href": "specific-content/schedule/04-week00.html",
     "title": "IDS",
     "section": "",
-    "text": "Sept 28 - Oct 1\n Getting Ready for STATS 6\n\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nGetting to Know the Course Website    \n\n\nTake time go over the contents of this website, especially read the policies section. Do not forget to bookmark introdata.science.\n\n\n\n\n\n\n\n\n\n\n\nGet a GitHub username\n\n\n\n\n \n\n\nIMMEDIATELY\n\n\n\n\n\n\n\nIntroduce Yourself to Your Classmates\n\n\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nIntroduce Yourself to the Teaching Team\n\n\nThe responses to this “quiz” will not be available to your classmates. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nGet Your Tech Ready\n\n\nThe responses to this “quiz” will help us make sure that you are ready for the first class in terms of your tech needs. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm"
+    "text": "Sept 28 - Oct 1\n Getting Ready for STATS 6\n\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nGetting to Know the Course Website    \n\n\nTake time go over the contents of this website, especially read the policies section. Do not forget to bookmark introdata.science.\n\n\n\n\n\n\n\n\n\n\n\nGet a GitHub username\n\n\n\n\n \n\n\nIMMEDIATELY\n\n\n\n\n\n\n\nIntroduce Yourself to Your Classmates\n\n\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nIntroduce Yourself to the Teaching Team\n\n\nThe responses to this “quiz” will not be available to your classmates. The quiz is not timed.\n\n\n \n\n\nOct 1, 11:59 pm\n\n\n\n\n\n\n\nGet Your Tech Ready\n\n\nThe responses to this “quiz” will help us make sure that you are ready for the first class in terms of your tech needs. The quiz is not timed but it will take about half an hour to an hour to complete all the tasks.\n\n\n \n\n\nOct 1, 11:59 pm"
   },
   {
     "objectID": "specific-content/schedule/04-week03.html",
