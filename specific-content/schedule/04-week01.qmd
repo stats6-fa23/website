@@ -45,15 +45,14 @@
     <td> Describing Data with Numbers &nbsp; &nbsp; </td>
     <td>Data Frames, Variables, and Descriptive Statistics</td>
     <td><a href="https://stats6-fa23.github.io/slides/week01/1b-describe-data.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
-            title="External Link to Slides" target = "_blank"></i></a> <a href="starter-codes/1b-summarize-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
-            title="External Link to Slides" target = "_blank"></i></a></td>
+            title="External Link to Slides" target = "_blank"></i></a> </td>
     <td></td>
   </tr>
   
   <tr>
     <td><input type="checkbox" /></td>
     <td> Reading </td>
-    <td>Chapter 2</td>
+    <td>Section 2.1</td>
     <td><a href="https://www.openintro.org/go/?id=os4_for_screen_readers&referrer=/book/os/index.php" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
             title="External Link to the Book" target = "_blank"></i></a></td>
     <td></td>
