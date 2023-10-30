@@ -35,7 +35,7 @@
    <tr>
     <td><input type="checkbox" /></td>
     <td> Project proposal&nbsp; &nbsp; </td>
-    <td></td>
+    <td>Instructions in Week 4 repos</td>
     <td></td>
     <td>Nov 8, 11:59 pm</td>
   </tr>
