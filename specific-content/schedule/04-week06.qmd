@@ -1,4 +1,4 @@
-{{< fa calendar >}} Nov 5 - Nov 12
+{{< fa calendar >}} Nov 6 - Nov 12
 
 
 <table class="table-striped text-left table-bordered" align = "center">

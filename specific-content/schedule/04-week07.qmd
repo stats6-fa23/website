@@ -1,1 +1,65 @@
-TBA
+{{< fa calendar >}} Nov 13 - Nov 19
+
+
+<table class="table-striped text-left table-bordered" align = "center">
+
+  <thead>
+    <th style="width:  3%"></th>
+    <th style="width:  30%"></th>
+    <th style="width:  40%">Notes</th>
+    <th style="width:  8%">Links</th>
+    <th style="width:  15%">Due</th>
+  </thead>
+
+
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td>Introduction to Frequentist Inference &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://stats6-fa23.github.io/slides/week07/7a-freq-inference.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a>
+      </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading  </td>
+    <td>Section 5.1</td>
+    <td><a href="https://www.openintro.org/go/?id=os4_for_screen_readers&referrer=/book/os/index.php" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Introduction to Frequentist Inference: Inference for a Proportion &nbsp; &nbsp; </td>
+    <td> </td>
+    <td><a href="https://stats6-fa23.github.io/slides/week07/7b-freq-inference.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a> </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading </td>
+    <td>Section 6.1</td>
+    <td><a href="https://www.openintro.org/go/?id=os4_for_screen_readers&referrer=/book/os/index.php" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Homework 7: Frequentist Inference&nbsp; &nbsp; </td>
+    <td>In Week 7 repo</td>
+    <td><a href="https://github.com/stats6-fa23" target ="_blank"> <i class="fa-brands fa-github" aria-hidden="true"
+            title="External Link to GitHub" target = "_blank"></i></a></td>
+    <td>Nov 20, 12:15 pm</td>
+  </tr>
+    
+        
+</table>
