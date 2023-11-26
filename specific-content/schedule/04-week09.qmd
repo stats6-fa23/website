@@ -1,1 +1,54 @@
-TBA
+{{< fa calendar >}} Nov 27 - Dec 3
+
+
+<table class="table-striped text-left table-bordered" align = "center">
+
+  <thead>
+    <th style="width:  3%"></th>
+    <th style="width:  30%"></th>
+    <th style="width:  40%">Notes</th>
+    <th style="width:  8%">Links</th>
+    <th style="width:  15%">Due</th>
+  </thead>
+
+
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td>Hands-on work on Final Projects  and Feedback</td>
+    <td></td>
+    <td>
+      </td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Logistic Regression &nbsp; &nbsp; </td>
+    <td> </td>
+    <td><a href="https://stats6-fa23.github.io/slides/week09/9b-logistic-regression.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a> </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading </td>
+    <td>Chapter 9</td>
+    <td><a href="https://openintro-ims.netlify.app/model-slr" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Homework 9: Logistic Regression&nbsp; &nbsp; </td>
+    <td>In Week 9 repo</td>
+    <td><a href="https://github.com/stats6-fa23" target ="_blank"> <i class="fa-brands fa-github" aria-hidden="true"
+            title="External Link to GitHub" target = "_blank"></i></a></td>
+    <td>Dec 4, 12:15 pm</td>
+  </tr>
+    
+        
+</table>
