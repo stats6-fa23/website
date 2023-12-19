@@ -1,1 +1,35 @@
-TBA
+{{< fa calendar >}} Dec 4 - Dec 10
+
+
+<table class="table-striped text-left table-bordered" align = "center">
+
+  <thead>
+    <th style="width:  3%"></th>
+    <th style="width:  30%"></th>
+    <th style="width:  40%">Notes</th>
+    <th style="width:  8%">Links</th>
+    <th style="width:  15%">Due</th>
+  </thead>
+
+
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td>Project Submission</td>
+    <td></td>
+    <td>
+      </td>
+    <td>Dec 11 at 1:30 pm</td>
+  </tr>
+  
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Peer Evaluation </td>
+    <td> </td>
+    <td> </td>
+    <td> Dec 11 1:30 - 3: 30 pm</td>
+  </tr>
+  
+  
+        
+</table>
